@@ -1,0 +1,3 @@
+# stats
+
+Welcome to stats!
